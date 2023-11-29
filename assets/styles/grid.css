@@ -1,0 +1,16 @@
+*{
+    border-style: 0;
+}
+
+.container {
+    width: 50px;
+    margin: auto;
+    border: 5px solid red;
+    display: grid;
+    grid-template-columns: 100px 300px 400px;
+}
+
+.box {
+  padding: 15px;
+  background-color: purple;
+}
